@@ -16,7 +16,9 @@ I'm a passionate developer who loves building digital products that solve real-w
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical)
+![Precious64-ui's Stats](https://github-readme-stats.vercel.app/api?username=Precious64-ui&show_icons=true&theme=radical)
+
+![Precious64-ui's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Precious64-ui&layout=compact&theme=radical)
 
 ---
 
